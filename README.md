@@ -15,3 +15,7 @@ I like write bug
 ### learning list
 1. ES6 🏄‍♀️
 2. DDD 🏄
+
+
+### reading list
+1. MySQL技术内幕：InnoDB存储引擎（第二版）
