@@ -10,3 +10,8 @@ I like write bug
 * 💬 Ask me about 527172036@qq.com
 * 😄 The BE road, we work hard together
 * ⚡ Brewing......
+
+
+### learning list
+1. ES6 🏄‍♀️
+2. DDD 🏄
