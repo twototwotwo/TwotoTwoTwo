@@ -12,9 +12,7 @@ I like write bug and
 
 
 ### learning list
-1. ES6 🏄‍♀️
-2. DDD 🏄
-3. Linux kernal
+
 
 
 ### reading list
