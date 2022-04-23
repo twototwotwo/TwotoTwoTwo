@@ -17,8 +17,9 @@ I like write bug and
 
 ### reading list
 1. MySQL技术内幕：InnoDB存储引擎（第二版）
+2. 高性能mysql
 
 
 ### TODO list
-1. rust-proxy
+
 
