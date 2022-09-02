@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm wsjiu</h1>
+<h1 align="center">Hi 👋, I'm twototwoto</h1>
 <h3 align="center">A Java Programmer</h3>
 
-I like write bug and 
+I like write code and bug
 
 
 ### ✨ Hi👋, welcome to my space ✨
 
-* 🔭 My Name: wsjiu
-* 💬 Ask me about 527172036@qq.com
+* 🔭 My Name: twototwoto
 * ⚡ Brewing......
 
 
 ### learning list
-
+1. rocketmq vs kafka
+2. netty
 
 
 ### reading list
@@ -21,5 +21,6 @@ I like write bug and
 
 
 ### TODO list
-
-
+1. 🏃🏃‍♂️🏃‍♀️ Exercise for half an hour every day 
+2. ⛹️‍♀️⛹️‍♂️⛹️ play 🏀 once every week
+3. 🎈
